@@ -1,6 +1,6 @@
 Undergraduate student, mechanical engineering, heavily interested in (aero)space.
-- **Projects** in [rocket engineering](https://www.nasa.gov/stem/studentlaunch/home/index.html) and [Baja SAE](https://bajasae.net)
-- **Hobbies** in science fiction, keyboard layouts, and a bit of occasional art
+- **Projects** in [rocket engineering](https://www.nasa.gov/stem/studentlaunch/home/index.html) and [Baja SAE](https://github.com/stonybrookmotorsports)
+- **Hobbies** in science fiction and keyboard layouts
 - **Past dabbles** in coding/research projects and a few games
 
 Means of contact from most to least active:
