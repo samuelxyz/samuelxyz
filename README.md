@@ -5,7 +5,7 @@ Undergraduate student, mechanical engineering, heavily interested in (aero)space
 - 🟦 **Past dabbles** in coding/research projects and a few games
 
 Means of contact from most to least active:
-- Discord [@Tanamr#3739](discord.com/users/444585600318701568)
+- Discord [@Tanamr#3739](https://discord.com/users/444585600318701568)
 - Reddit [/u/Tanamr](https://www.reddit.com/user/Tanamr)
 - Matrix [@tanamr:matrix.org](https://matrix.to/#/@tanamr:matrix.org)
 
