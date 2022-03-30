@@ -1,7 +1,7 @@
 # Hello, I'm Tanamr.
 Undergraduate student, mechanical engineering, heavily interested in (aero)space.
 - 🚀 **Projects** in [rocket engineering](https://www.nasa.gov/stem/studentlaunch/home/index.html) and [Baja SAE](https://github.com/stonybrookmotorsports)
-- 🎨 **Hobbies** in science fiction and keyboard layouts
+- 🎨 **Hobbies** in science fiction and [keyboard layouts](https://github.com/samuelxyz/trialyzer)
 - 🟦 **Past dabbles** in coding/research projects and a few games
 
 Means of contact from most to least active:
