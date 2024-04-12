@@ -1,5 +1,5 @@
 # Hello, I'm Tanamr.
-Graduate student, now studying Space Engineering.
+
 - 🚀 **Projects** in [rockets](https://www.nasa.gov/stem/studentlaunch/home/index.html) and [Baja SAE](https://github.com/stonybrookmotorsports)
 - 🎨 **Hobbies** in science fiction and [keyboard layouts](https://github.com/samuelxyz/trialyzer)
 - 🟦 **Past dabbles** in coding/research projects and a few games
