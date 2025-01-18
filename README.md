@@ -1,11 +1,11 @@
-# Hello, I'm Tanamr.
+# Hello! My screen name is Tanamr.
 
-- 🚀 **Projects** in [rockets](https://www.nasa.gov/stem/studentlaunch/home/index.html) and [Baja SAE](https://github.com/stonybrookmotorsports)
-- 🎨 **Hobbies** in science fiction and [keyboard layouts](https://github.com/samuelxyz/trialyzer)
-- 🟦 **Past dabbles** in coding/research projects and a few games
+- 🚀 **Hands-on projects** in [rockets](https://www.nasa.gov/stem/studentlaunch/home/index.html) and [Baja SAE](https://github.com/stonybrookmotorsports)
+- 💻 **Coding projects** in [astrodynamics](https://github.com/samuelxyz/artemis_detection), [rigid body simulation](https://github.com/samuelxyz/Simulation-Visualizer), and others
+- 🎨 **Hobbies** in science fiction, [keyboard layouts](https://github.com/samuelxyz/trialyzer), and [excessively technical video game analysis](https://samuelxyz.github.io/drg-analysis/)
 
-Means of contact from most to least active:
-- Discord [@Tanamr#3739](https://discord.com/users/444585600318701568)
+Some of my socials:
+- Discord [@tanamr](https://discord.com/users/444585600318701568)
 - Reddit [/u/Tanamr](https://www.reddit.com/user/Tanamr)
 
 <!---
